@@ -4,3 +4,5 @@ console.log(x,y);
 
 let { first: f, last: l } = { first: 'hello', last: 'world' };
 console.log(f,l);
+
+
